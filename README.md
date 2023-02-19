@@ -1,5 +1,5 @@
 # LinearRegression
-the code performs exploratory data analysis on the aircraft data and trains a linear regression model to predict the target variable.
+The code performs exploratory data analysis on the aircraft data and trains a linear regression model to predict the target variable.
 
 Here is a summary of the code:
 
